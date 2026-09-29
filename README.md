@@ -1,3 +1,5 @@
+> **Not part of Ghost.** This is a copy of CPU-X, a hardware information tool, kept for reference. It is not installed on a Ghost box.
+
 <p align="middle">
 <img src="./data/icons/header.svg" />
 </p>
