@@ -1,3 +1,14 @@
+> **CultureReset fork of [TheTumultuousUnicornOfDarkness/CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X).** CPU-X is a Free software that gathers information on CPU, motherboard and more.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** GPL-3.0, from upstream. For updates and issues, use [upstream](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X).
+>
+> The upstream README follows unchanged.
+
+---
+
 <p align="middle">
 <img src="./data/icons/header.svg" />
 </p>
